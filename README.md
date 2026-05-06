@@ -106,3 +106,7 @@ NODE_OBJECT
 - Numbers follow the pattern `-?[0-9]+(\.[0-9]+)?`; scientific notation (e.g. `1.5e10`) is not supported.
 - The top-level JSON value must be an object; a bare array or scalar at the top level is not tested.
 - Output is compact (no indentation or newlines between tags).
+
+## Made By
+- Abdul Mohaimin
+- Shazil Rehman

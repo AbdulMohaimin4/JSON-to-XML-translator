@@ -2,6 +2,7 @@
 #include <cstdio>
 #include <cstdlib>
 #include <cstring>
+#include "ast.h"
 #include "parser.tab.h"
 %}
 

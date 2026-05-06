@@ -1,0 +1,12 @@
+{
+  "title": "The Matrix",
+  "year": 1999,
+  "active": true,
+  "deletedAt": null,
+  "tags": ["action", "sci-fi"],
+  "director": {
+    "name": "Wachowski",
+    "country": "USA"
+  },
+  "ratings": [8, 9, 10]
+}
